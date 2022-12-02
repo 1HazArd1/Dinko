@@ -5,7 +5,7 @@
     android:id="@+id/cv_news_items"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_margin="2dp"
+    android:layout_marginBottom="15dp"
     android:elevation="7dp"
     app:cardCornerRadius="10dp">
 
@@ -17,7 +17,7 @@
         <ImageView
             android:id="@+id/img_News"
             android:layout_width="match_parent"
-            android:layout_height="250dp"
+            android:layout_height="300dp"
             android:scaleType="centerCrop"
             tools:srcCompat="@drawable/ic_launcher_background"
             android:contentDescription="@string/ImageContext" />
@@ -39,6 +39,7 @@
             android:id="@+id/tv_news_description"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
             android:paddingStart="15dp"
             android:paddingTop="10dp"
             android:paddingEnd="15dp"
