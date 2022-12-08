@@ -10,4 +10,7 @@
     <color name="grey">#6A6161</color>
     <color name="cornflower_blue">#797EF6</color>
     <color name="jet_black">#343434</color>
+    <color name="chartreuse">#8BFC38</color>
+    <color name="fuchsia">#5F093d</color>
+    <color name="pine">#234F1E</color>
 </resources>

@@ -9,7 +9,7 @@ import retrofit2.*
 import retrofit2.converter.gson.GsonConverterFactory
 
 class MainActivity : AppCompatActivity() {
-    private val country: String = "us"
+    private val country: String = "in"
     lateinit var newsAdapter:NewsAdapter
 
     private companion object {
