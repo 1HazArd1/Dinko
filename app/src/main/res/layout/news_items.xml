@@ -32,20 +32,20 @@
             android:paddingTop="10dp"
             android:text="@string/NewsTitle"
             android:textColor="@color/black"
-            android:textSize="22sp"
+            android:textSize="21sp"
             android:textStyle="bold" />
 
         <TextView
             android:id="@+id/tv_news_description"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="28dp"
+            android:layout_marginTop="18dp"
             android:paddingStart="15dp"
             android:paddingTop="10dp"
             android:paddingEnd="15dp"
             android:textColor="@color/jet_black"
             android:text="@string/description_sample"
-            android:textSize="19sp" />
+            android:textSize="18sp" />
 
         <TextView
             android:id="@+id/tv_news_author"
