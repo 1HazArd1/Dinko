@@ -5,7 +5,6 @@ import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.cardview.widget.CardView
@@ -47,6 +46,7 @@ class NewsAdapter(private val newsData:List<NewsData>,private val cont: Context)
             }
 //            cvNewsItems.animation= AnimationUtils.loadAnimation(cont,R.anim.slide_in_row)
             Picasso.get().load(newsData[position].urlToImage).into(imgNews)
+
         }
 
 }

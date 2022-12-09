@@ -27,38 +27,40 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="25dp"
+            android:fontFamily="sans-serif-medium"
             android:paddingStart="15dp"
-            android:paddingEnd="15dp"
             android:paddingTop="10dp"
+            android:paddingEnd="15dp"
             android:text="@string/NewsTitle"
-            android:textColor="@color/black"
-            android:textSize="21sp"
-            android:textStyle="bold" />
+            android:textColor="@color/jet_black"
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/tv_news_description"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="18dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-light"
             android:paddingStart="15dp"
             android:paddingTop="10dp"
             android:paddingEnd="15dp"
-            android:textColor="@color/jet_black"
             android:text="@string/description_sample"
-            android:textSize="18sp" />
+            android:textColor="@color/fuchsia"
+            android:textSize="16sp" />
 
         <TextView
             android:id="@+id/tv_news_author"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/title_sample"
-            android:textSize="14sp"
-            android:paddingStart="15dp"
             android:layout_marginTop="15dp"
-            android:paddingEnd="15dp"
+            android:fontFamily="sans-serif-light"
+            android:paddingStart="15dp"
             android:paddingTop="10dp"
-            android:textStyle="italic"
-            android:textColor="@color/cornflower_blue" />
+            android:paddingEnd="15dp"
+            android:text="@string/title_sample"
+            android:textColor="@color/cornflower_blue"
+            android:textSize="14sp"
+            android:textStyle="italic" />
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>
