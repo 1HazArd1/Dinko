@@ -43,6 +43,8 @@
     <br />
     <a href="https://github.com/1HazArd1/Dinko/issues">Report Bug</a>
     ·
+    <a href="https://github.com/1HazArd1/Dinko/blob/master/LICENSE.md">License</a>
+    ·
     <a href="https://github.com/1HazArd1/Dinko/issues">Request Feature</a>
   </p>
 </div>
@@ -170,7 +172,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,7 +200,7 @@ Project Link: [https://github.com/1HazArd1/Dinko](https://github.com/1HazArd1/Di
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/1HazArd1/Dinko/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sinha-aakash-kumar/
 [product-screenshot]: [images/screenshot.png](https://user-images.githubusercontent.com/77063438/206874286-685ac59a-e2ef-4e21-8af6-8c90c8a879ec.jpg)
