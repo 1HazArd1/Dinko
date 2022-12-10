@@ -5,7 +5,7 @@
     android:id="@+id/cv_news_items"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginBottom="15dp"
+    android:layout_marginBottom="10dp"
     android:elevation="7dp"
     app:cardCornerRadius="10dp">
 
