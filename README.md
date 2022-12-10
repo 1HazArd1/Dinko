@@ -38,11 +38,9 @@
   <p align="center">
     When News Matters, It Matters Where You Get Your News.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/1HazArd1/Dinko/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/1HazArd1/Dinko/issues">Report Bug</a>
     ·
     <a href="https://github.com/1HazArd1/Dinko/issues">Request Feature</a>
@@ -57,9 +55,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -73,7 +68,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -207,6 +201,5 @@ Project Link: [https://github.com/1HazArd1/Dinko](https://github.com/1HazArd1/Di
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sinha-aakash-kumar/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: [images/screenshot.png](https://user-images.githubusercontent.com/77063438/206874286-685ac59a-e2ef-4e21-8af6-8c90c8a879ec.jpg)
 
-![news_app_logo](https://user-images.githubusercontent.com/77063438/206874286-685ac59a-e2ef-4e21-8af6-8c90c8a879ec.jpg)
